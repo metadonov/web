@@ -1,0 +1,7 @@
+export const SOCKET_CONFIG = {
+	DISCORD_USER_ID: "400111022901559298",
+	RECONNECT_DELAY: 5000,
+	SOCKET_URL: "wss://api.lanyard.rest/socket",
+	MAX_RECONNECT_ATTEMPTS: 5,
+	BACKOFF_MULTIPLIER: 1.5,
+} as const;
