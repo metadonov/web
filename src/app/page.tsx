@@ -30,10 +30,7 @@ export default function Home() {
 			<About />
 			<Statistics />
 			<Comissions />
-			<Projects />
 			<Footer />
-			<Cat />
-			<TranslateGlobe />
 			<SpeedInsights />
 			<Analytics />
 		</>
