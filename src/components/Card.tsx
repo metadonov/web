@@ -35,29 +35,24 @@ export default function CardComponent() {
 	const socialLinks = useMemo(
 		() => [
 			{
-				href: "https://t.me/backdropped",
+				href: "https://t.me/xeohate",
 				icon: "mdi:telegram",
 				alt: "Telegram",
 			},
 			{
-				href: "https://github.com/refurbishing",
+				href: "https://github.com/metadonov",
 				icon: "mdi:github",
 				alt: "GitHub",
 			},
 			{
-				href: "https://steamcommunity.com/id/webassembly",
+				href: "https://steamcommunity.com/id/an1kovv",
 				icon: "mdi:steam",
 				alt: "Steam",
 			},
 			{
-				href: "https://stats.fm/maduro",
-				icon: "/assets/statsfm.png",
-				alt: "stats.fm",
-			},
-			{
-				href: "https://ko-fi.com/authenticators",
+				href: "https://t.me/send?start=IVm6SNsxfPN1",
 				icon: "famicons:cash",
-				alt: "Ko-fi",
+				alt: "Crypto Bot",
 			},
 		],
 		[],
